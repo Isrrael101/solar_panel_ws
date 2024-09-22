@@ -1,0 +1,3 @@
+[0.000000] (-) TimerEvent: {}
+[0.000299] (-) JobUnselected: {'identifier': 'solar_panel_sim'}
+[0.000572] (-) EventReactorShutdown: {}

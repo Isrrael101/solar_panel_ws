@@ -1,0 +1,41 @@
+/**:
+  ros__parameters:
+    panel:
+      width: 1.0
+      total_height: 0.5
+      base_height: 0.1
+      column_height: 0.4  # This is total_height - base_height
+      depth: 2.0
+      mass: 10.0
+
+    control:
+      azimuth:
+        p: 10.0  # Reducido de 100.0
+        i: 0.001  # Reducido de 0.01
+        d: 1.0  # Reducido de 10.0
+      elevation:
+        p: 10.0  # Reducido de 100.0
+        i: 0.001  # Reducido de 0.01
+        d: 1.0  # Reducido de 10.0
+
+
+    joints:
+      azimuth:
+        lower: -3.14159
+        upper: 3.14159
+        effort: 1000.0
+        velocity: 0.5
+      elevation:
+        lower: -1.57079
+        upper: 1.57079
+        effort: 1000.0
+        velocity: 0.5
+
+    gazebo:
+      update_rate: 50
+
+    # Parámetros de simulación
+    start_date: "2024-06-21 00:00:00"
+    end_date: "2024-06-21 23:00:00"
+    csv_file: "resource/solar_parameters_2024.csv"
+    update_rate: 0.1  # 0.1 segundos entre actualizaciones

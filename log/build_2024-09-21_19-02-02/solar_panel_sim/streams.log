@@ -1,0 +1,21 @@
+[0.597s] Invoking command in '/home/isrraelfcaq/ros2_ws/src/solar_panel_sim': PYTHONPATH=/home/isrraelfcaq/ros2_ws/build/solar_panel_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/isrraelfcaq/ros2_ws/install/solar_panel_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/solar_panel_sim build --build-base /home/isrraelfcaq/ros2_ws/build/solar_panel_sim/build install --record /home/isrraelfcaq/ros2_ws/build/solar_panel_sim/install.log --single-version-externally-managed install_data
+[0.803s] running egg_info
+[0.803s] writing ../../build/solar_panel_sim/solar_panel_sim.egg-info/PKG-INFO
+[0.803s] writing dependency_links to ../../build/solar_panel_sim/solar_panel_sim.egg-info/dependency_links.txt
+[0.804s] writing entry points to ../../build/solar_panel_sim/solar_panel_sim.egg-info/entry_points.txt
+[0.804s] writing requirements to ../../build/solar_panel_sim/solar_panel_sim.egg-info/requires.txt
+[0.804s] writing top-level names to ../../build/solar_panel_sim/solar_panel_sim.egg-info/top_level.txt
+[0.806s] reading manifest file '../../build/solar_panel_sim/solar_panel_sim.egg-info/SOURCES.txt'
+[0.807s] writing manifest file '../../build/solar_panel_sim/solar_panel_sim.egg-info/SOURCES.txt'
+[0.807s] running build
+[0.807s] running build_py
+[0.807s] running install
+[0.808s] running install_lib
+[0.810s] running install_data
+[0.810s] running install_egg_info
+[0.812s] removing '/home/isrraelfcaq/ros2_ws/install/solar_panel_sim/lib/python3.10/site-packages/solar_panel_sim-0.0.1-py3.10.egg-info' (and everything under it)
+[0.812s] Copying ../../build/solar_panel_sim/solar_panel_sim.egg-info to /home/isrraelfcaq/ros2_ws/install/solar_panel_sim/lib/python3.10/site-packages/solar_panel_sim-0.0.1-py3.10.egg-info
+[0.813s] running install_scripts
+[0.836s] Installing solar_panel_controller script to /home/isrraelfcaq/ros2_ws/install/solar_panel_sim/lib/solar_panel_sim
+[0.836s] writing list of installed files to '/home/isrraelfcaq/ros2_ws/build/solar_panel_sim/install.log'
+[0.867s] Invoked command in '/home/isrraelfcaq/ros2_ws/src/solar_panel_sim' returned '0': PYTHONPATH=/home/isrraelfcaq/ros2_ws/build/solar_panel_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/isrraelfcaq/ros2_ws/install/solar_panel_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/solar_panel_sim build --build-base /home/isrraelfcaq/ros2_ws/build/solar_panel_sim/build install --record /home/isrraelfcaq/ros2_ws/build/solar_panel_sim/install.log --single-version-externally-managed install_data

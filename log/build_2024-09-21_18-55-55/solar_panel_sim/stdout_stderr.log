@@ -1,0 +1,43 @@
+running egg_info
+creating ../../build/solar_panel_sim/solar_panel_sim.egg-info
+writing ../../build/solar_panel_sim/solar_panel_sim.egg-info/PKG-INFO
+writing dependency_links to ../../build/solar_panel_sim/solar_panel_sim.egg-info/dependency_links.txt
+writing entry points to ../../build/solar_panel_sim/solar_panel_sim.egg-info/entry_points.txt
+writing requirements to ../../build/solar_panel_sim/solar_panel_sim.egg-info/requires.txt
+writing top-level names to ../../build/solar_panel_sim/solar_panel_sim.egg-info/top_level.txt
+writing manifest file '../../build/solar_panel_sim/solar_panel_sim.egg-info/SOURCES.txt'
+reading manifest file '../../build/solar_panel_sim/solar_panel_sim.egg-info/SOURCES.txt'
+writing manifest file '../../build/solar_panel_sim/solar_panel_sim.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/isrraelfcaq/ros2_ws/build/solar_panel_sim/build
+creating /home/isrraelfcaq/ros2_ws/build/solar_panel_sim/build/lib
+creating /home/isrraelfcaq/ros2_ws/build/solar_panel_sim/build/lib/solar_panel_sim
+copying solar_panel_sim/solar_panel_controller.py -> /home/isrraelfcaq/ros2_ws/build/solar_panel_sim/build/lib/solar_panel_sim
+copying solar_panel_sim/__init__.py -> /home/isrraelfcaq/ros2_ws/build/solar_panel_sim/build/lib/solar_panel_sim
+running install
+running install_lib
+creating /home/isrraelfcaq/ros2_ws/install/solar_panel_sim/lib/python3.10/site-packages/solar_panel_sim
+copying /home/isrraelfcaq/ros2_ws/build/solar_panel_sim/build/lib/solar_panel_sim/solar_panel_controller.py -> /home/isrraelfcaq/ros2_ws/install/solar_panel_sim/lib/python3.10/site-packages/solar_panel_sim
+copying /home/isrraelfcaq/ros2_ws/build/solar_panel_sim/build/lib/solar_panel_sim/__init__.py -> /home/isrraelfcaq/ros2_ws/install/solar_panel_sim/lib/python3.10/site-packages/solar_panel_sim
+byte-compiling /home/isrraelfcaq/ros2_ws/install/solar_panel_sim/lib/python3.10/site-packages/solar_panel_sim/solar_panel_controller.py to solar_panel_controller.cpython-310.pyc
+byte-compiling /home/isrraelfcaq/ros2_ws/install/solar_panel_sim/lib/python3.10/site-packages/solar_panel_sim/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/isrraelfcaq/ros2_ws/install/solar_panel_sim/share/ament_index
+creating /home/isrraelfcaq/ros2_ws/install/solar_panel_sim/share/ament_index/resource_index
+creating /home/isrraelfcaq/ros2_ws/install/solar_panel_sim/share/ament_index/resource_index/packages
+copying resource/solar_panel_sim -> /home/isrraelfcaq/ros2_ws/install/solar_panel_sim/share/ament_index/resource_index/packages
+copying package.xml -> /home/isrraelfcaq/ros2_ws/install/solar_panel_sim/share/solar_panel_sim
+creating /home/isrraelfcaq/ros2_ws/install/solar_panel_sim/share/solar_panel_sim/launch
+copying launch/solar_panel_sim.launch.py -> /home/isrraelfcaq/ros2_ws/install/solar_panel_sim/share/solar_panel_sim/launch
+creating /home/isrraelfcaq/ros2_ws/install/solar_panel_sim/share/solar_panel_sim/config
+copying config/solar_panel_config.yaml -> /home/isrraelfcaq/ros2_ws/install/solar_panel_sim/share/solar_panel_sim/config
+creating /home/isrraelfcaq/ros2_ws/install/solar_panel_sim/share/solar_panel_sim/urdf
+copying urdf/solar_panel.urdf.xacro -> /home/isrraelfcaq/ros2_ws/install/solar_panel_sim/share/solar_panel_sim/urdf
+creating /home/isrraelfcaq/ros2_ws/install/solar_panel_sim/share/solar_panel_sim/resource
+copying resource/solar_parameters_2024.csv -> /home/isrraelfcaq/ros2_ws/install/solar_panel_sim/share/solar_panel_sim/resource
+running install_egg_info
+Copying ../../build/solar_panel_sim/solar_panel_sim.egg-info to /home/isrraelfcaq/ros2_ws/install/solar_panel_sim/lib/python3.10/site-packages/solar_panel_sim-0.0.1-py3.10.egg-info
+running install_scripts
+Installing solar_panel_controller script to /home/isrraelfcaq/ros2_ws/install/solar_panel_sim/lib/solar_panel_sim
+writing list of installed files to '/home/isrraelfcaq/ros2_ws/build/solar_panel_sim/install.log'

@@ -1,0 +1,3 @@
+[console_scripts]
+solar_panel_controller = solar_panel_sim.solar_panel_controller:main
+
